@@ -1,0 +1,34 @@
+html {
+    background-color: #121212; 
+}
+.maingame {
+    margin: auto;
+    width:180px;
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif; 
+    color: #EEE;
+}
+
+h2 {
+    font-family: sans-serif; 
+    color: #FFF;
+}
+
+.boarditem {
+    width:60px;
+    height:60px;
+    font-size:40px; 
+    color: #FFF; 
+    background-color: #121212; 
+    border: 1px solid white; 
+}
+
+.board {
+    display:flex;
+    flex-wrap: wrap;
+    width:180px;
+}
+
